@@ -16,3 +16,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Generated research output
+research_output.txt
